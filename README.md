@@ -9,5 +9,12 @@ It includes fetching data from an API and it has option to tweet generated quote
 - Loading spinner
 - Tweet certain quote
 
+## Getting started
+
+1. Clone the repository: git clone https://github.com/yourusername/quote-generator.git
+2. Navigate to the project directory: cd quote-generator
+3. Open index.html in your browser to view the application.
+
+
 
 
